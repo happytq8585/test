@@ -1,3 +1,0 @@
-this is a learn git
-rename remote origin to tq
-
